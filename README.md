@@ -57,7 +57,6 @@
 ## 🌱 En cours d'apprentissage :
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 
 <!--
