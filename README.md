@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 
 ### Hypertext et format de données
 
@@ -49,7 +50,9 @@
 
 ### Bonnes Pratiques
 
+![TestUnitaire](https://img.shields.io/badge/TestUnitaire-ECE53F?logo=TestUnitaire&logoColor=black)
 ![Junit](https://img.shields.io/badge/Junit-25A162?logo=junit5&logoColor=white)
+![.ENV](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=black)
 
 ## 🌱 En cours d'apprentissage :
 
@@ -71,3 +74,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Source Icon : [SimpleIcons](https://simpleicons.org)
