@@ -1,6 +1,6 @@
 # NETANGE Clément
 
-## Statistique Github
+## Statistiques Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem-png&show_icons=true&theme=tokyonight)
 
