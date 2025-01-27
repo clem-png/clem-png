@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem-png&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtiqueKevin&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clem-png&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 ## 📚 Compétence Acquise
 
